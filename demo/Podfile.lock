@@ -1,0 +1,16 @@
+PODS:
+  - MSActionSheet (1.0.0)
+
+DEPENDENCIES:
+  - MSActionSheet (from `..`)
+
+EXTERNAL SOURCES:
+  MSActionSheet:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  MSActionSheet: 3aa1de8459a9abf40e22735bef3268d34fd965d3
+
+PODFILE CHECKSUM: 50dab07237e38ad489f18366fc9779fbd28f9745
+
+COCOAPODS: 1.2.0.beta.1
