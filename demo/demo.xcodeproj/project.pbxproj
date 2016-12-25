@@ -140,6 +140,7 @@
 				TargetAttributes = {
 					A1119EF71E097BD80061C428 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = CQQZ5V48P8;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -350,7 +351,9 @@
 			baseConfigurationReference = 5AF2579F3CC4AF725A3BE1DA /* Pods-demo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CQQZ5V48P8;
 				INFOPLIST_FILE = demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mrsong.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -362,7 +365,9 @@
 			baseConfigurationReference = C63905F493445BF816624872 /* Pods-demo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CQQZ5V48P8;
 				INFOPLIST_FILE = demo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mrsong.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -388,6 +393,7 @@
 				A1119F111E097BD80061C428 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
